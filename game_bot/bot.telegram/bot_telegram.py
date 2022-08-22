@@ -31,11 +31,11 @@ def r(message):
         
             
         elif message.text == 'Эпизоды':
-            markup = button(get_episode_names()) 
+            markup = button(get_names()) 
             bot.send_message(message.chat.id, 'Выбирите серии',reply_markup=markup)
             
-        elif message.text in get_episode_names():
-            bot.send_message(message.chat.id, episode_data(message.text))
+        elif message.text in get_names():
+            bot.send_message(message.chat.id, get_episode_names(message.text))
         
             
         elif message.text == "|||":
