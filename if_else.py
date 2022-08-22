@@ -283,5 +283,30 @@
 # print(name) 
 
 
-text = ('мир труд май')
-print(text.title())
+# text = ('мир труд май')
+# print(text.title())
+
+
+# num = input('Введите цифру:')
+# if int (num) > 0:
+#     if int(num) > 10:
+#         print('Вы ввели цифру больше 10')
+#         if int(num) >= 50:
+#             print('Вы ввели цифру больше 50')
+#     else:
+#         print('Вы ввели меньше 10 но больше 0')
+# elif int(num) < -10:
+#     print('Вы ввели меньше -10')
+# elif int(num) < 0:
+#     print('Вы ввели меньше 0')
+
+
+# num = (4)
+# while(num > 0):
+#     print('У нас',num,'столко имени')
+#     num -= 1
+# print('У нас не осталось ни одной цифры')
+
+
+
+    

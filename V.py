@@ -37,21 +37,10 @@
 # print(a)
 
 
-a = []
-for i in range(2, 7, 3):
-    a.append(i*2)
-print(a)
-    
-
-
-
-
-    
-    
-    
-    
-    
-    
+# a = []
+# for i in range(2, 7, 3):
+#     a.append(i*2)
+# print(a)
 
 
 # for i in name:
@@ -64,4 +53,4 @@ print(a)
 #     if type 
 
 
-    
+

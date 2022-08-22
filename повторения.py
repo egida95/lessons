@@ -183,57 +183,57 @@
 # print(int(a))
 
 
-users = {
-     '2109128304301812': {
-         'name': 'Asan',
-         'last_name': 'Usenov',
-         'b_year': 2000,
-         'gender': 'M',
-         'status': False,
-         'ID': 'AK4724'
-     },
-     '2109128304301232': {
-         'name': 'Aktan',
-         'last_name': 'Asanov',
-         'b_year': 2022,
-         'gender': 'M',
-         'status': False,
-         'ID': 'AK4723'
-     }
- }
+# users = {
+#      '2109128304301812': {
+#          'name': 'Asan',
+#          'last_name': 'Usenov',
+#          'b_year': 2000,
+#          'gender': 'M',
+#          'status': False,
+#          'ID': 'AK4724'
+#      },
+#      '2109128304301232': {
+#          'name': 'Aktan',
+#          'last_name': 'Asanov',
+#          'b_year': 2022,
+#          'gender': 'M',
+#          'status': False,
+#          'ID': 'AK4723'
+#      }
+#  }
 
-users['21206201400345'] = {
-     'name': 'Indira',
-     'last_name': 'Ruslanova',
-     'b_year': 1999,
-     'gender': 'F',
-     'status': True,
-     'ID': 'I324324'
- }
+# users['21206201400345'] = {
+#      'name': 'Indira',
+#      'last_name': 'Ruslanova',
+#      'b_year': 1999,
+#      'gender': 'F',
+#      'status': True,
+#      'ID': 'I324324'
+#  }
 
-inn = input('Введите ИНН: ')
-name = input('Введите name : ')
-last_name = input('Введите last_name : ')
-b_year = input('Введите b_year : ')
-gender = input('Введите gender : ')
-status = input('Введите status : ')
-id = input('Введите ID : ')
+# inn = input('Введите ИНН: ')
+# name = input('Введите name : ')
+# last_name = input('Введите last_name : ')
+# b_year = input('Введите b_year : ')
+# gender = input('Введите gender : ')
+# status = input('Введите status : ')
+# id = input('Введите ID : ')
 
-users[inn] = {
-    'name': name,
-    'last_name': last_name,
-    'b_year': b_year,
-    'gender': gender,
-    'status': status,
-    'ID': id
-}
-
-
+# users[inn] = {
+#     'name': name,
+#     'last_name': last_name,
+#     'b_year': b_year,
+#     'gender': gender,
+#     'status': status,
+#     'ID': id
+# }
 
 
 
-print(users)
-print(users['2109128304301232'])
+
+
+# print(users)
+# print(users['2109128304301232'])
 
 
 

@@ -124,15 +124,17 @@
 # print('Файл успешно записан')
 
 
-a = 'home/lessons/data/f'
+# a = 'home/lessons/data/f'
 
-with open('img', 'w') as f:
-     f.write('data/foto.jpg')
+# with open('img', 'w') as f:
+#      f.write('data/foto.jpg')
 
-b = '../Изображения/linux.png'
-with open('n.txt', 'w') as f:
-    f.write(b)
-    
+# b = '../Изображения/linux.png'
+# with open('n.txt', 'w') as f:
+#     f.write(b)
+
+
+
 
 
 

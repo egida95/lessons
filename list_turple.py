@@ -70,9 +70,4 @@
 # name4 = input('Введите имя4:')
 # name5 = input('Введите имя5:')
 
-names.extend([name1,name2,name3,name4,name5])
-print(names)
 
-# names = ['aktan','kanykei','kanat','edgira','rimuri']
-
-# print(names)

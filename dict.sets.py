@@ -140,11 +140,12 @@
 
 
 
-farm_1 = {"dog", "cat", "mouse", "sheep"}
-farm_2 = {"cow", "horse", "donkey", "cat", "dog"}
-farm_3 = {"dog","horse","donkey","cow"}
-farm_4 = farm_2.difference(farm_1,farm_3)
-print(farm_4)
+# farm_1 = {"dog", "cat", "mouse", "sheep"}
+# farm_2 = {"cow", "horse", "donkey", "cat", "dog"}
+# farm_3 = {"dog","horse","donkey","cow"}
+# farm_4 = farm_2.difference(farm_1,farm_3)
+# print(farm_4)
+
 
 
 

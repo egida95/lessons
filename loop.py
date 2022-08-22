@@ -224,11 +224,13 @@
 #      print(f'Вы потратили {count} попыток')
 
 
-a = ['azamat', 'bektur', 'ilgiz', 'nikita', 'joma', 'arsen']
-for i in a:
-     if i == 'nikita':
-         continue
-     print(i, end=', ')
+# a = ['azamat', 'bektur', 'ilgiz', 'nikita', 'joma', 'arsen']
+# for i in a:
+#      if i == 'nikita':
+#          continue
+#      print(i, end=', ')
+
+
 
 
 

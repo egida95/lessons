@@ -60,38 +60,38 @@
 
 # Задания 5 tasks2
             
-from pprint import pprint            
+# from pprint import pprint            
 
 
 
-date ={
-            "year": "2020",
-            "month": "10",
-            'day': '24',
-            'hour':'18',
-            'minut':'30'
-            }
+# date ={
+#             'year': '2020',
+#             'month': '10',
+#             'day': '24',
+#             'hour':'18',
+#             'minut':'30'
+#             } 
 
 
-year = input('year:')
-month = (input('month:'))
-day = (input('day:'))
-hour = (input('hour:'))
-minut = (input('minut:'))
+# year = input('year:')
+# month = (input('month:'))
+# day = (input('day:'))
+# hour = (input('hour:'))
+# minut = (input('minut:'))
 
 
     
-date[year] = {
-      'year':year, 
-        'month':month,
-        'day':day,
-        'hour':hour,
-        'minut':minut
+# date[year] = {
+#       'year':year, 
+#         'month':month,
+#         'day':day,
+#         'hour':hour,
+#         'minut':minut
         
-    }    
+#     }    
     
-pprint(date)
-print(f'{year}-{month}-{day} {hour}:{minut}')
+# pprint(date)
+# print(f'{year}-{month}-{day} {hour}:{minut}')
 
 
 
